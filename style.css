@@ -1,0 +1,17 @@
+    body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+        height: 100vh;
+        background-image: url('bg.jpg'); /* استبدل background.jpg بمسار الصورة */
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    input, select, button {
+        margin: 10px;
+        padding: 10px;
+        font-size: 16px;
+    }
+
